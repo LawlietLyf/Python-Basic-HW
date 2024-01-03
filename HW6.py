@@ -1,4 +1,10 @@
-mport numpy as np
+'''
+This file is for HW6
+Yifu Liu
+2101111263
+'''
+
+import numpy as np
 import matplotlib.pyplot as plt
 
 
